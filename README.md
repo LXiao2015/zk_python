@@ -1,6 +1,5 @@
 Make sure that you have installed zookeeper for c.
-First download from the official website https://mirrors.tuna.tsinghua.edu.cn/apache/zookeeper/.
-Then install it.
+First download from the official website https://mirrors.tuna.tsinghua.edu.cn/apache/zookeeper/. Then install it.
 ```
 cd src/c
 ./configure
